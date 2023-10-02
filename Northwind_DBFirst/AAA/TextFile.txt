@@ -1,0 +1,4 @@
+﻿Scaffold-DbContext 'Server = DESKTOP-K4VMD83\SQLEXPRESS; Database=Northwind;Integrated Security=True; TrustServerCertificate= true' Microsoft.EntityFrameworkCore.SqlServer -Tables Orders,Products -ContextDir Contexts -OutputDir Entities -Force
+
+
+efcoresqlserver ve efcoretools eklentisi ile
